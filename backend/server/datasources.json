@@ -1,0 +1,12 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "bbcFeeds": {
+    "name": "bbcFeeds",
+    "baseURL": "https://news.google.com/rss/search?q=bbc&hl=en-US&gl=US&ceid=US:en",
+    "crud": false,
+    "connector": "rest"
+  }
+}
