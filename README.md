@@ -13,3 +13,5 @@ The application will run at `http://localhost:8081/`
 - npm run start
 
 The application will run at `http://localhost:3001/`
+
+PS. End point can be checked in backend 
